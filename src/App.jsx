@@ -6,6 +6,7 @@ import './index.css';
 import Lottie from 'lottie-react';
 import CodingWithCoffile from './assets/CodingWithCoffile.json';
 
+
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrollY, setScrollY] = useState(0);
@@ -348,7 +349,7 @@ function App() {
 
           <div className="flex flex-wrap justify-center gap-8">
             <a
-              href="https://github.com" 
+              href="https://github.com/selvet-elif" 
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 p-6 bg-slate-800/50 backdrop-blur border border-purple-500/30 rounded-xl hover:border-purple-500/60 hover:shadow-2xl hover:shadow-purple-500/20 hover:scale-110 transition-all duration-300"
@@ -360,7 +361,7 @@ function App() {
             </a>
 
             <a
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/selvet-elif-demirel/" 
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center gap-3 p-6 bg-slate-800/50 backdrop-blur border border-purple-500/30 rounded-xl hover:border-purple-500/60 hover:shadow-2xl hover:shadow-purple-500/20 hover:scale-110 transition-all duration-300"
@@ -372,7 +373,7 @@ function App() {
             </a>
 
             <a
-              href="mailto:your.email@example.com" 
+              href="mailto:selvet.elif@gmail.com" 
               className="group flex flex-col items-center gap-3 p-6 bg-slate-800/50 backdrop-blur border border-purple-500/30 rounded-xl hover:border-purple-500/60 hover:shadow-2xl hover:shadow-purple-500/20 hover:scale-110 transition-all duration-300"
             >
               <div className="w-16 h-16 bg-gradient-to-br from-purple-500/30 to-pink-500/30 rounded-full flex items-center justify-center group-hover:from-purple-500 group-hover:to-pink-500 transition-all duration-300">
