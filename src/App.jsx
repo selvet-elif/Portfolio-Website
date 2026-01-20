@@ -193,7 +193,7 @@ function App() {
 
         <div className="max-w-4xl mx-auto text-center relative z-10 animate-fadeIn">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 animate-slideUp">
-            Developer & <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">Data Analyst</span>
+            Software Developer & <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">Data Analyst</span>
           </h1>
           <p className="text-xl sm:text-2xl text-slate-300 mb-8 animate-slideUp animation-delay-200">
             Building intelligent solutions with Python, Machine Learning, and Modern Web Technologies
